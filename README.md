@@ -10,7 +10,7 @@ https://discordapp.com/api/oauth2/authorize?client_id=666677820491169849&permiss
  	 ____/_____\__\@  @/___/_____\____
 	|             |\../|              |
 	|              \VV/               |
-	|  Bot made by DubstepDragon#5555 |
+	|  Bot made by JonReynolds#8790   |
 	|    Date Created: 01/14/2020     |
 	|    Last Updated: 01/16/2020     |
 	|     Current Version: 0.2.0      |
